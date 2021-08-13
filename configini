@@ -1,0 +1,6 @@
+[Ethash]
+wallet = BCH:qqvucezymvvsz29y343mjw4lmullf0srduhrrc9ja6
+coin = BCH
+rigName = Srikrisg
+rigPassword=x
+pool1 = ethash.unmineable.com:3333
